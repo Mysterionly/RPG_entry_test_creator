@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <questions>
+    <TestQuestion>
+      <questionId>0</questionId>
+      <questionText>Вы выйграли путевку на кругосветное путешествие в составе экспедиционной группы Его Величества. Через несколько дней в море начался шторм, и корабль вот-вот потерпит крушение. Вы...</questionText>
+      <answers>
+        <TestAnswer>
+          <answerText>... уверены в том, что Капитан - абсолютный идиот и не сможет справиться с ситуацией, поэтому направляетесь на мостик, чтобы захватить штурвал, даже если придется применить грубую силу.</answerText>
+          <influences>
+            <ritorica>-10</ritorica>
+            <cunning>-7</cunning>
+            <cruelty>15</cruelty>
+            <attentiveness>-15</attentiveness>
+            <survivialism>12</survivialism>
+            <trading>-2</trading>
+            <obedience>-20</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... обеспокоены всеобщей паникой. Люди начинают бросаться за борт, и Вы - один из немногих, кто ловит напуганных бедолаг. Отчасти Вам наплевать на их жизни - Вами движет нежелание нести вахту в три раза чаще.</answerText>
+          <influences>
+            <ritorica>6</ritorica>
+            <cunning>12</cunning>
+            <cruelty>6</cruelty>
+            <attentiveness>10</attentiveness>
+            <survivialism>17</survivialism>
+            <trading>0</trading>
+            <obedience>-5</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... бросаетесь за борт. Вы не хотели никуда плыть и уже устали от компании грязных пьяных мореманов, и вообще - у Вас морская болезнь. Однако в воде Вы чувствуете себя уверено, и вполне возможно - сможете доплыть до виднеющегося берега.</answerText>
+          <influences>
+            <ritorica>-20</ritorica>
+            <cunning>0</cunning>
+            <cruelty>10</cruelty>
+            <attentiveness>-15</attentiveness>
+            <survivialism>15</survivialism>
+            <trading>0</trading>
+            <obedience>10</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... спокойны за свою судьбу. Лежа в каюте, вы спокойно жуете паек, который Вам в царящем на корабле безумии удалось тихо скомуниздить из камбуза. Даже если экипаж обречен, Вы хотя бы умрете сытым и счастливым.</answerText>
+          <influences>
+            <ritorica>5</ritorica>
+            <cunning>15</cunning>
+            <cruelty>5</cruelty>
+            <attentiveness>8</attentiveness>
+            <survivialism>10</survivialism>
+            <trading>10</trading>
+            <obedience>0</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... не готовы умирать. За время, проведенное на корабле, экипаж стал Вам второй семьей. Или даже первой. Не желая расставаться с горячо обожаемыми Вами людьми, Вы способны лишь истошно вопить и плакать, даже если шторм уже прекратился.</answerText>
+          <influences>
+            <ritorica>22</ritorica>
+            <cunning>-14</cunning>
+            <cruelty>-16</cruelty>
+            <attentiveness>-13</attentiveness>
+            <survivialism>-19</survivialism>
+            <trading>8</trading>
+            <obedience>11</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... смирились и расслабились. Ваша жизнь безобразно скучна и отвтатительно однообразна. Вы - полный неудачник, у Вас никогда ничего не получалось, и Вы надеетесь, что это - шанс наконец-то избавиться от бремени существования.</answerText>
+          <influences>
+            <ritorica>-17</ritorica>
+            <cunning>-7</cunning>
+            <cruelty>8</cruelty>
+            <attentiveness>-5</attentiveness>
+            <survivialism>15</survivialism>
+            <trading>-3</trading>
+            <obedience>18</obedience>
+          </influences>
+        </TestAnswer>
+      </answers>
+    </TestQuestion>
+    <TestQuestion>
+      <questionId>1</questionId>
+      <questionText>Вы - круглый сирота и находились при царском дворе, служа гонцом, сколько себя помните. В день Вашего шестнадцатилетия один из свитков в Вашем багаже раскрывается, и Вы узнаете, что Вы - внебрачный ребенок Его Величества и единственный его наследник. Вы...</questionText>
+      <answers>
+        <TestAnswer>
+          <answerText>... долго размышляете о своей дальнейшей судьбе и приходите к выводу, что управление государством - не Ваше призвание. Вы понимаете, Вы как бастард рискуете стать жертвой заговора, поэтому решаете бежать из дворца этой же ночью.</answerText>
+          <influences>
+            <ritorica>-9</ritorica>
+            <cunning>6</cunning>
+            <cruelty>-8</cruelty>
+            <attentiveness>15</attentiveness>
+            <survivialism>9</survivialism>
+            <trading>3</trading>
+            <obedience>-7</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... всегда знали, кто Вы на самом деле и всегда были уверены, что наступит Ваш звездный час. С самого детства Король был добр к Вам, и теперь Вы счастливы, что наконец обретете семью.</answerText>
+          <influences>
+            <ritorica>11</ritorica>
+            <cunning>-8</cunning>
+            <cruelty>-16</cruelty>
+            <attentiveness>-8</attentiveness>
+            <survivialism>-11</survivialism>
+            <trading>0</trading>
+            <obedience>18</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... впадаете в бешенство. Вам известно, что Его Величество всегда был жесток к прислуге, и строите догадки о том, что именно он лишил Вас и матери. Теперь, когда правда открылась Вам, Вы намерены мстить за свое нелегкое детство.</answerText>
+          <influences>
+            <ritorica>-8</ritorica>
+            <cunning>9</cunning>
+            <cruelty>21</cruelty>
+            <attentiveness>11</attentiveness>
+            <survivialism>3</survivialism>
+            <trading>-5</trading>
+            <obedience>-18</obedience>
+          </influences>
+        </TestAnswer>
+        <TestAnswer>
+          <answerText>... начинаете грезить о роскошной жизни. Вы не беспокоитесь о необходимости вести государственные дела и планируете получить максимум выгоды из сложившейся ситуации.</answerText>
+          <influences>
+            <ritorica>13</ritorica>
+            <cunning>17</cunning>
+            <cruelty>3</cruelty>
+            <attentiveness>-11</attentiveness>
+            <survivialism>-4</survivialism>
+            <trading>21</trading>
+            <obedience>6</obedience>
+          </influences>
+        </TestAnswer>
+      </answers>
+    </TestQuestion>
+    <TestQuestion>
+      <questionId>2</questionId>
+      <questionText>НОВЫЙ ВОПРОС3</questionText>
+      <answers />
+    </TestQuestion>
+  </questions>
+</Test>
